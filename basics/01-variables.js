@@ -13,5 +13,3 @@ accountCity ="khushab"
 console.log(accountId);
 console.table([accountId,accountEmail,accountPassword,accountCity])
 console.log(accountId);
-console.log(accountId);
-
