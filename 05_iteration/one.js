@@ -1,3 +1,5 @@
+// for
+
 for (let i = 0; i <= 10; i++) {
     const element = i;
     if (element == 5) {
@@ -44,3 +46,4 @@ for (let index = 1; index <= 20; index++) {
     }
    console.log(`Value of i is ${index}`);
     
+}
